@@ -9,11 +9,9 @@ Play golf using the CLI. Your goal is to get the ball into the hole in as few sw
 - Installation: download the zip file, extract it somewhere that is convenient for you, and then open DrunkGolf
 - Credits: Aaron, Jay, Sam
 
-[0] - Open a Command Prompt
+[1] - Open your file explorer to the folder where you installed DrunkGolf
 
-[1] - Change your directory to where you installed DrunkGolf
-
-[2] - Type "run"
+[2] - Open the DIST and drunkgolfing folders and then start the "run.cmd" file
 
 [3] - Select how many holes you want to play: 1, 9, or 18 (or b for bonus level)
 
